@@ -9,7 +9,8 @@ class App extends Component {
           <h2>Andela react login task</h2>
           <ul>
             <li>Create login form</li>
-            <li>minum length of password 6 characters</li>
+            <li>minimum length of password 6 characters</li>
+            <li>show feedback to users</li>
             <li>email must be valid email</li>
             <li>button will be disabled until valid</li>
             <li>on login, show that its sucessful</li>
